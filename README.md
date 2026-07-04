@@ -15,7 +15,7 @@ You can run the installation script using either `curl` or `wget`. Choose **one*
 ```bash
 curl -fsSL https://raw.githubusercontent.com/ourpxi/squidservers-install/refs/heads/main/install.sh | bash
 ```
-### Method 2: Using cURL
+### Method 2: Using wget
 ```bash
 wget -qO- https://raw.githubusercontent.com/ourpxi/squidservers-install/refs/heads/main/install.sh | bash
 ```
