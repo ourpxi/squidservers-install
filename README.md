@@ -3,7 +3,7 @@
 This script will help you install the latest **SquidServer AppImage** on your system. 
 
 > [!NOTE]
-> This script is designed specifically for **amd64 (x86_64)** Linux systems. It will fetch the latest AppImage release, and set up the application for you.
+> The SquidServers application is intended **amd64 (x86_64)** Linux systems.
 
 ---
 
